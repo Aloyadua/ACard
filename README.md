@@ -1,4 +1,4 @@
-# ACard
+# Aloyadua-Landing Page
 
 Um card pessoal minimalista e estilizado criado com **HTML**, **CSS** e **JavaScript**.
 
