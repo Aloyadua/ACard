@@ -690,10 +690,10 @@ p spoiler-text {
 #image03 .frame {
     width: 7.5rem;
     border-radius: 100%;
-    border-color: #6800ca;
+    border-color: #630200;
     border-style: solid;
     border-width: 1px;
-    box-shadow: -0rem 0rem 0.75rem 0.125rem rgba(70, 0, 199, 0.18);
+    box-shadow: -0rem 0rem 0.75rem 0.125rem rgba(129, 0, 0, 0.78);
     transition: none;
 }
 
