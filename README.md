@@ -26,7 +26,7 @@ A página apresenta:
 
 ## 🖼️ Demonstração
 
-![Preview do projeto](favi.icon)
+![Preview do projeto](favi.png)
 
 ## 🚀 Tecnologias utilizadas
 
