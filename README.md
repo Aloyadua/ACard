@@ -26,7 +26,7 @@ A página apresenta:
 
 ## 🖼️ Demonstração
 
-![Preview do projeto](image.png)
+![Preview do projeto](logo.gif)
 
 ## 🚀 Tecnologias utilizadas
 
