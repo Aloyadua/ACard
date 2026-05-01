@@ -1,4 +1,4 @@
-# Aloyadua-Landing Page
+# AloyaduaLP
 
 Um card pessoal minimalista e estilizado criado com **HTML**, **CSS** e **JavaScript**.
 
@@ -38,7 +38,7 @@ A página apresenta:
 ## 📁 Estrutura do projeto
 
 ```txt
-Aloyadua-LandingPage/
+AloyaduaLP/
 ├── index.html
 ├── style.css
 ├── script.js
