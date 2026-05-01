@@ -38,7 +38,7 @@ A página apresenta:
 ## 📁 Estrutura do projeto
 
 ```txt
-ACard/
+Aloyadua-LandingPage/
 ├── index.html
 ├── style.css
 ├── script.js
